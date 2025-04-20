@@ -12,8 +12,8 @@ This is an early-stage prototype of my personal portfolio website, built to show
 
 ## 🚧 Current Features:
 
- • Basic page structure (About, Projects, Contact)
- • Responsive layout (partially implemented)
+ • Basic page structure (About, Projects, Contact)  
+ • Responsive layout (partially implemented)  
  • Custom animations and transitions
 
 ## 🖥️ Getting Started:
